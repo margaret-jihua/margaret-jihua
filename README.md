@@ -2,8 +2,8 @@
 <div>
   <h2>My Github Stats</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr;">
-    <img src="https://github-readme-stats.vercel.app/api?username=margaret-jihua&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margaret-jihua&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=margaret-jihua&show_icons=true&theme=solarized-light" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margaret-jihua&layout=compact&theme=solarized-light" />
   </div>
 </div>
 
