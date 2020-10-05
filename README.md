@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Margaret's github stats](https://github-readme-stats.vercel.app/api?username=margaret-jihua)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **margaret-jihua/margaret-jihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
