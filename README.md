@@ -1,5 +1,13 @@
 ### Hi there 👋
-[Margaret's github stats](https://github-readme-stats.vercel.app/api?username=margaret-jihua&show_icons=true&theme=radical)
+<div>
+  <h2>My Github Stats</h2>
+  <div style="display: grid; grid-template-columns: 1fr 1fr;">
+    <img src="https://github-readme-stats.vercel.app/api?username=margaret-jihua&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margaret-jihua&layout=compact&theme=onedark" />
+  </div>
+</div>
+
+
 <!--
 **margaret-jihua/margaret-jihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
