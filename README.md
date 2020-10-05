@@ -1,4 +1,3 @@
-### Hi there 👋
 <div>
   <h2>My Github Stats</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr;">
@@ -35,7 +34,7 @@
 
 <!--
 **margaret-jihua/margaret-jihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
