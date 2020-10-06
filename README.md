@@ -1,3 +1,5 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/margaret-jihua/)](https://www.linkedin.com/in/margaret-jihua/)
+
 <div>
   <h2>My Github Stats</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr;">
